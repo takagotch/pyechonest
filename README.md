@@ -2,6 +2,8 @@
 ---
 https://github.com/echonest/pyechonest
 
+http://echonest.github.io/pyechonest/
+
 ```py
 from pyechonest import config
 config.ECHO_NEST_API_KEY="YOUR API KEY"
